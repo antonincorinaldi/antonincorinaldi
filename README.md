@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Antonin Corinaldi
 
-- 👀 I’m interested in cosmology, galaxy morphology and intrinsic alignments.
+- 👀 I’m interested in cosmology, science of galaxy surveys and in particular intrinsic alignments of galaxies
 - 📗 I’m currently a 2nd year PhD student in the Cosmostat team of CEA.
 
 
